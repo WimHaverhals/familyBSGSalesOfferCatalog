@@ -1,0 +1,18 @@
+"Models"
+
+"update","segment_var_name","pline_variable","_bm_model_name","_bm_model_description","_bm_model_hide","_bm_model_modelsBefore","model_variable","security_","guid",
+"add","familyBSGSalesOfferCatalog","lineCtlSocIqNetworking","Lite Model IQ Networking","Dummy Model - Used as a container to display punchins","1","liteCoreConnectEnterpriseCCE,
+liteIQDeltaPort,
+liteIQEnhanced,
+liteIQInternational,
+liteIQInternet,
+liteIQPrivate,
+liteIQPlusBasic,
+liteIQPlusFinancial,
+liteNetworkBasedSecurity,
+liteNetworkManagementServiceNMS,
+nwxIQNetworking,","modelCntnrIqNetworkingLite",,"0cfea34d-1929-4f9e-8bca-5b76c13e82bb",
+"add","familyBSGSalesOfferCatalog","lineCtlSocIqNetworking","Detail Model IQ Networking","Dummy Model - Used as a container to display punchins","1","config_punchin_configureIQNetworking,
+punchin_IQPlusBasic,
+punchin_IQPlusFinancial,
+ctlPunchinVPort","modelCntnrIqNetworkingDetail",,"9a5db73c-4f09-4653-9525-d153af5be9f1",
